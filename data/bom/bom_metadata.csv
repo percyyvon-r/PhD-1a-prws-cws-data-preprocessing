@@ -1,0 +1,7 @@
+file_name,p_id,station,station_code,alt_m,latitude,longitude
+ea,200,Essendon Airport,86038,78.4,-37.7276,144.9066
+la,600,Laverton RAAF,87031,20.1,-37.8565,144.7565
+ma,400,Melbourne Airport,86282,113.4,-37.6654,144.8322
+mo,500,Melbourne Olympic Park,86338,7.5,-37.8255,144.9816
+mor,700,Moorabbin Airport,86077,66.1,-37.7408,145.0972
+vb,300,Viewbank,86068,66.1,-37.7408,145.0972
